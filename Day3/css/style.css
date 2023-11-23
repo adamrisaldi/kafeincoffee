@@ -77,10 +77,6 @@ body {
     color: var(--primary);
 }
 
-#hamburger-menu {
-    display: none;
-}
-
 /* hero section */
 .hero {
     min-height: 100vh;
